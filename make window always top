@@ -1,0 +1,1 @@
+::SetWindowPos(AfxGetMainWnd()->m_hWnd, HWND_TOPMOST, 10, 10, 450, 300, SWP_NOMOVE);
